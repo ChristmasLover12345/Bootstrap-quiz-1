@@ -1,8 +1,70 @@
 .DivColor{
-    background-color: blueviolet;
+    background-color: purple;
 }
 
 .titleHeader{
     height: 200px;
     background-color: #D9D9D9;
+}
+
+
+
+.firstBtn
+{
+    background-color: blueviolet;
+    color: white;
+    padding-right: 100px;
+    padding-left: 100px;
+    border-radius: 6px;
+    border-color: blueviolet;
+    
+}
+.otherBtn
+{
+    color: blueviolet;
+    padding-right: 90px;
+    padding-left: 90px;
+    background-color: white;
+    border: 0px;
+}
+.disabled
+{
+    color: red;
+    padding-right: 100px;
+    padding-left: 100px;
+    background-color: white;
+    border: 0px;
+}
+
+/* .imageBorder
+{
+
+} */
+
+.textStory
+{
+    font-size: 40px;
+}
+.realDogs
+{
+    height: 100%;
+    width: 100%;
+}
+
+.modifiedFirstBtn
+{
+    background-color: rgb(163, 88, 233);
+    color: white;
+    border-radius: 6px;
+    border-color: blueviolet;
+}
+.center
+{
+    display: flex;
+    justify-content: center;
+}
+.containerMargin
+{
+    margin-right: 60px;
+    margin-left: 60px;
 }
